@@ -32,7 +32,14 @@
   * [hostoj](http://acm.xatu.edu.cn/ "算法在线测评软件")
   * [wordpress](http://zhennongagri.com/ "紫阳振农农业发展有限公司")
   * EduSoho(未上线)
-  
+* 源码剖析
+ * 内存管理 
+  * linux
+  * STL
+  * memcached
+ * 网络库
+  * libevent
+
 ###荣誉奖项
 
 - 英语四级
