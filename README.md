@@ -1,7 +1,7 @@
-#About Myself
+#                                                              About Myself
 ****
-###  Mail: qinyu.LT@gmail.com
-###  Tell  : 187-0928-7436
+###                                                     Mail: qinyu.LT@gmail.com
+###                                                     Tell  : 187-0928-7436
 ===========================
 ------
 ###自我介绍
