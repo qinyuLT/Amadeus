@@ -1,5 +1,5 @@
 ****
-###　　　　　　　　　　　                            　About Myself
+##　<center>About Myself</center>
 ###  E-mail: qinyu.LT@gmail.com
 ###  Tell  : 187-0928-7436
 ===========================
