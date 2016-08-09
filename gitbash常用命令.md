@@ -1,5 +1,5 @@
 ##上传本地项目
-  1. 在本机需要上传的项目名右键点击 'Git Bash Here'
+  1. 在本机需要上传的项目名右键点击 `Git Bash Here`
   2. 将XXX改成自己的文件夹或项目名称，整体复制执行，快
 ```
   git remote rm origin; 
