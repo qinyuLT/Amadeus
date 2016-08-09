@@ -20,7 +20,9 @@
   git clone git@github.com:qinyuLT/XXX.git;
 ```
 
-##具体命令介绍
+##详细操作步骤
+- [安装Git GUI和bash管理工具](http://git-scm.com/)
 - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000)
 - [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 - [详细介绍如何在win7下首次实现通过Git bash向Github提交项目](http://jingpin.jikexueyuan.com/article/35944.html)
+
