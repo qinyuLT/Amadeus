@@ -1,7 +1,0 @@
-git remote rm origin;
-git init;
-git add ./AAA;
-git commit -m 'AAA';
-git remote add origin git@github.com:qinyuLT/AAA;
-git pull --rebase origin master;
-git push -u origin master;
