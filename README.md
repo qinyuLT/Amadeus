@@ -32,10 +32,10 @@
   * [wordpress](http://zhennongagri.com/ "紫阳振农农业发展有限公司")
   * EduSoho(未上线)
 * 源码剖析
- * 内存管理 
+  * [memcached](https://github.com/qinyuLT/CodePractice/blob/master/README.md#五memcached-1420)
+  * 内存管理
   * linux
   * STL
-  * [memcached](https://github.com/qinyuLT/CodePractice/blob/master/README.md#五memcached-1420)
   * 网络库
   * libevent
 
@@ -55,7 +55,7 @@
 音乐、 锻炼身体、 桌球、 阅读、 旅行等。
 
 ###我在这里
-| [微博](http://weibo.com/p/1005055053057550/home?from=page_100505&mod=TAB&pids=plc_main#place) |
-| [CSDN](http://blog.csdn.net/le_temps) |
-| [知乎](https://www.zhihu.com/people/tan-yu-69-64) |
-| [OSChina](http://my.oschina.net/qinyuQ) |
+| [微博](http://weibo.com/p/1005055053057550/home?from=page_100505&mod=TAB&pids=plc_main#place) |</br>
+| [CSDN](http://blog.csdn.net/le_temps) |</br>
+| [知乎](https://www.zhihu.com/people/tan-yu-69-64) |</br>
+| [OSChina](http://my.oschina.net/qinyuQ) |</br>
