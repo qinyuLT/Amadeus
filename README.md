@@ -1,7 +1,6 @@
 #                                                              About Myself
 ****
 ###                                                     Mail: qinyu.LT@gmail.com
-###                                                     Tele  : 187-0928-7436
 ===========================
 ------
 ###自我介绍
@@ -54,3 +53,9 @@
 ###兴趣爱好
 
 音乐、 锻炼身体、 桌球、 阅读、 旅行等。
+
+###我在这里
+| [微博](http://weibo.com/p/1005055053057550/home?from=page_100505&mod=TAB&pids=plc_main#place) |
+| [CSDN](http://blog.csdn.net/le_temps) |
+| [知乎](https://www.zhihu.com/people/tan-yu-69-64) |
+| [OSChina](http://my.oschina.net/qinyuQ) |
