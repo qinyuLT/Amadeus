@@ -35,8 +35,8 @@
  * 内存管理 
   * linux
   * STL
-  * memcached
- * 网络库
+  * [memcached](https://github.com/qinyuLT/CodePractice/blob/master/README.md#五memcached-1420)
+  * 网络库
   * libevent
 
 ###荣誉奖项
