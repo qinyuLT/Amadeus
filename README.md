@@ -24,7 +24,7 @@
 * 编码
   * [企业级系统架构（银行综合业务系统）](https://github.com/qinyuLT/BankingSystem)
   * [云盘搜索引擎](https://github.com/qinyuLT/BSearchEngine)
-  * [基于负载均衡的网盘项目](https://github.com/qinyuLT/CloudPan)
+  * [基于负载均衡的网盘项目](https://github.com/qinyuLT/CloudPan/blob/master/README.md#cloudpan)
   * 仿真实现 linux 下的 shell
   * 未完待续（将陆续上传至github）</br>
 * 搭建
