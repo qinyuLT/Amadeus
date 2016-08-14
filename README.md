@@ -33,11 +33,11 @@
   * EduSoho(未上线)
 * 源码剖析
   * [memcached](https://github.com/qinyuLT/CodePractice/blob/master/README.md#五memcached-1420)
-  * 内存管理
+  * libevent
   * linux
   * STL
   * 网络库
-  * libevent
+  * 内存管理
 
 ###荣誉奖项
 
