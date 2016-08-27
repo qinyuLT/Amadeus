@@ -28,7 +28,7 @@
   * 未完待续（将陆续上传至github）</br>
 * 搭建
   * [hostoj](http://acm.xatu.edu.cn/ "算法在线测评软件")
-  * [wordpress](http://zhennongagri.com/ "紫阳振农农业发展有限公司")
+  * [wordpress]("紫阳振农农业发展有限公司")
   * EduSoho(未上线)
 * 源码剖析
   * [memcached](https://github.com/qinyuLT/CodePractice/blob/master/README.md#五memcached-1420)
